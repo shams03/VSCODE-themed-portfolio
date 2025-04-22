@@ -1,4 +1,5 @@
 # vscode-portfolio
+
 [![Open is Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/shams03/vscode-portfolio)
 
 A Visual Studio Code themed developer portfolio website built with Next.js and deployed on Vercel.
@@ -17,8 +18,9 @@ For other features and themes suggestions, please open an issue.
 
 ## Environment Variables
 
-For fetching your articles from dev.to, create an `.env.local` file inside the project directory. Check the `.env.local.example` file for more information.
+For fetching your articles from dev.to, create an `.env.local` file inside the project directory.
 Same goes for github.com
+
 
 ## Running Development Server
 
